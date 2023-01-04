@@ -34,3 +34,8 @@ the leading European startups or freelance.
 ![](https://img.shields.io/badge/-MS%20Office-orange) ![](https://img.shields.io/badge/-Miro-red) ![](https://img.shields.io/badge/-Figma-violet) ![](https://img.shields.io/badge/-Tableau-FFCC2A) ![](https://img.shields.io/badge/-Prezi-1B56E7) ![](https://img.shields.io/badge/-Power%20BI-E8911A) ![](https://img.shields.io/badge/-GSuite%20toolset%20(Forms%2C%20Sheets%2C%20Docs%2C%20SketchUp)-brightgreen)
 
 ### Follow me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/iamchris0)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/mike.nikityuk)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/mnikityuk/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/m.a.nikityuk)

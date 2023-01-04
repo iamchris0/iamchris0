@@ -15,6 +15,14 @@ the leading European startups or freelance.
 
 ### Work experience
 
+| Work period | Company | Working tasks |
+| --- | --- | --- |
+| 2022 | ![Maroo](https://www.maroo.us/) | • Cohort analysis <br>• Database administration via SQL <br>• Slack bots programming with server requests |
+| 2022 | ![Yandex.Practicum](https://practicum.yandex.ru/) | • Data verification services for the purpose of teaching, detecting and correcting errors made by students of the service <br>• Maintaining feedback within the work team <br>• Preparation of monthly reports on the work done |
+| 2021 | ![Private clients database management group](https://gobanya.ge/) London | <br>• Development of multitasking telegram bot <br>• Commercial customer analysis <br>• Modernizing of CRM systems <br>• Project management (led the team of 3 people, set priorities, tracked tasks) |
+| 2020 | ![Private clients database management group](https://gobanya.ge/) London | <br>• Commercial customer analysis <br>• Profitability analysis <br>• Consumer trend analysis |
+| 2019 | ![IXcellerate](https://ixcellerate.ru/) , Marketing intern, Moscow | <br>• Designed event brochures (ConstantContact) <br>• Internal communications about corporate events <br>• Corporate annual party event CRM management |
+
 ### Languages and Tools
 
 ![](https://img.shields.io/badge/Python-<COLOR>) 
